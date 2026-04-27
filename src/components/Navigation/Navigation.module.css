@@ -1,0 +1,15 @@
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.active {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #75870c; 
+}
+
+.link:hover {
+  color: darkgray;
+}
